@@ -6,7 +6,7 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   color: whitesmoke;
-  background-image: url('C:\Users\ipsit\OneDrive\Desktop\College\Projects\MERN\ReactJS\React-JS-Portfolio-main\bg.jpg');
+  background-image: url('bg.jpg');
   background-repeat: no-repeat;
   background-size: cover;
 
